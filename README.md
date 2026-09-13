@@ -10,8 +10,6 @@
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
   
   <br>
-  <br>
-  
   <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
 </p>
