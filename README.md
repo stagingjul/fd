@@ -1,8 +1,15 @@
-<img alt="Julian Rulliansyah Brand" height="48" src="logo.png" width="48" />
+<p align="center">
+  <a href="https://julian.rulliansyah.com/">
+    <img src="logo.png" alt="Julian Rulliansyah Brand" width="60" height="60">
+  </a>
+</p>
 
-### Canggu
-Canggu is a collection of carefully refined React components for building consistent and accessible interfaces across internal systems.
+<h3 align="center">Canggu</h3>
 
-```bash
-bun install canggu
-```
+<p align="center">
+  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  
+  <br>
+  <a href="https://getbootstrap.com/docs/5.3/"><strong>Explore Bootstrap docs »</strong></a>
+  <br>
+</p>
