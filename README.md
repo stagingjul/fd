@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Canggu</h3>
+<h2 align="center">Canggu</h2>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
