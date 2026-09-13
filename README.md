@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://julian.rulliansyah.com/">
-    <img src="logo.png" alt="Julian Rulliansyah Brand" width="60" height="60">
+    <img src="logo.png" alt="Julian Rulliansyah Brand" width="80" height="80">
   </a>
 </p>
 
